@@ -5,12 +5,12 @@ The following are considered major glitches and are prohibited in NMG runs:
 - [Funnel Fly](https://wiki.portal2.sr/Crouch_Flying_Glitch)
 - [Button Glitch](https://wiki.portal2.sr/Button_Glitch)
     - Such as in Future Starter and Repulsion Intro
-- [Reportals](https://wiki.portal2.sr/Reportal)
+- [Reportals/ Super Reportal](https://wiki.portal2.sr/Reportal)
 - [Turret Fly](https://wiki.portal2.sr/Prop_Fly)
     - Such as in Turret Sabotage, using two turrets to prop fly
 - [Portal Cuts](https://wiki.portal2.sr/Portal_Placement_Tech#Grate_Shot)
     - Such as in Funnel Catch
-- [Scripted Momentum Abuse](https://wiki.portal2.sr/Scripted_Momentum_Abuse)
+- [Floor Snap Portal Boost](https://wiki.portal2.sr/Floor_Snap_Portal_Boost#Examples)
     - Such as in Cave Johnson
 - [Laser Switch Glitch](https://wiki.portal2.sr/Laser_Switch_Glitch)
     - Rapidly switching lasers between multiple receivers to activate them at once, such as in Triple Laser
@@ -46,3 +46,4 @@ The following are considered major glitches and are prohibited in NMG runs:
 - [EHM Abuse](https://wiki.portal2.sr/Entity_Handle_Misinterpretation)
 - [Double Trigger_Once Activation](https://wiki.portal2.sr/Double_Trigger_Activation)
     - Such as in Laser Relays LP
+- [Neuro Sabo Door Shot](https://wiki.portal2.sr/Neurotoxin_Sabotage)
